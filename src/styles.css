@@ -1,0 +1,210 @@
+body,
+ul,
+p {
+  margin: 0px;
+  padding: 0px;
+  list-style: none;
+  font-size: 1.2rem;
+  font-family: Arial;
+}
+html {
+  scroll-behavior: smooth;
+}
+body {
+  background: #f4b4ce;
+}
+a {
+  text-decoration: none;
+  color: black;
+}
+.item1 {
+  display: flex;
+  flex-direction: column;
+}
+.contato {
+  font-family: Cookie;
+  display: flex;
+  align-items: center;
+  margin: 0.5em 1em 0.5em 20em;
+}
+/*Header*/
+.top {
+  background: #f4b4ce;
+  display: flex;
+  width: 52.49em;
+}
+/*commissions*/
+.logo {
+  font-family: Alex Brush;
+  display: flex;
+  justify-content: flex-end;
+}
+/*anywhere*/
+.sub {
+  margin: -1.7em 0em 0em 4.8em;
+  font-family: Alex Brush;
+}
+.item1 {
+  font-family: Cookie;
+  margin: 0em 0em 0em 0.5em;
+  display: flex;
+  background: #f4b4ce;
+  align-self: center;
+}
+.item2 {
+  width: 1em;
+  margin: 0em 0em 0em 0em;
+  display: flex;
+  background: #f4b4ce;
+  align-self: center;
+}
+.item3 {
+  font-family: Cookie;
+  margin: 0em 0em 0em 2em;
+  display: flex;
+  background: #f4b4ce;
+  align-self: center;
+}
+.item4 {
+  width: 3em;
+  margin: 0em 0em 0em 0em;
+  display: flex;
+  background: #f4b4ce;
+  align-self: center;
+}
+
+.lc {
+  background: #f4b4ce;
+  display: flex;
+  justify-content: center;
+  width: 90em;
+}
+.top > div {
+  display: flex;
+  flex-wrap: wrap;
+  margin-left: 2em;
+  width: 12.6em;
+}
+body > figure {
+  margin: 0px;
+}
+.zelda {
+  width: 52.49em;
+}
+.sobre1 {
+  display: flex;
+  justify-content: center;
+}
+.sobre {
+  padding-top: 1.3em;
+  margin-top: 3em;
+  padding-bottom: 2.4em;
+  width: 52.49em;
+  background: #fed3a8;
+}
+.intro {
+  font-size: 2rem;
+  display: flex;
+  flex-wrap: wrap;
+  text-align: center;
+}
+.catype {
+  display: flex;
+  justify-content: space-around;
+  margin-bottom: -2.4em;
+  width: 52.49em;
+}
+.catype a:hover {
+  color: #ffa500;
+}
+.imgcat {
+  display: flex;
+  justify-content: space-around;
+  width: 48em;
+}
+.artype {
+  width: 10em;
+  border-radius: 1em;
+  display: flex;
+  justify-content: space-around;
+}
+.categorias {
+  width: 52.49em;
+  padding-bottom: 2em;
+}
+.contatof {
+  width: 52.49em;
+  padding-top: 1em;
+  background: #da83a9;
+  display: flex;
+  justify-content: space-between;
+}
+.redes {
+  background: #da83a9;
+  display: flex;
+  flex-direction: column;
+  padding-right: 2.5em;
+}
+.fit {
+  margin: 0em 0em 1.5em 0em;
+  width: 2em;
+}
+.cont {
+  padding-left: 1.8em;
+  display: flex;
+  flex-direction: column;
+}
+.wpp {
+  display: flex;
+}
+.info {
+  border: 0em;
+  width: 5em;
+  border-radius: 1em;
+}
+.inf {
+  border-radius: 1em;
+  margin: 0em 0em 0.6em 0em;
+}
+.inf1 {
+  width: 1.3em;
+  margin: 0em 0.3em 0.6em 0em;
+}
+.enviar {
+  display: flex;
+  justify-content: center;
+}
+
+/*=================================*/
+.cad {
+  width: 2em;
+  margin: 0em 1em 0em 0em;
+}
+.opcima {
+  margin: 0em 1em 0em 0em;
+}
+.opbaixo {
+  margin: 0em 1em 0em 0em;
+}
+.opcad {
+  padding: 1em 0em 1em 0em;
+  background: #fed3a8;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 52.49em;
+}
+.opcad1 img:hover {
+  color: #ffa500;
+}
+.cadastro {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  align-content: space-around;
+  width: 52.49em;
+  padding-bottom: 20em;
+}
+.cadastro > input {
+  margin: 0em;
+}
